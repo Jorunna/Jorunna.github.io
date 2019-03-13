@@ -10,13 +10,17 @@ body {
 
 /* BEGIN (write your solution here) */
 #header {
+    width: 600px;
     font: 20pt;
     margin-bottom: 32px;
 }
 #main {
+    width: 600px;
     font: 15pt;
+    margin: 0 20px 0 20px;
 }
 #footer {
+    width: 600px;
     font: 10pt;
     margin-top: 64px;
 }
