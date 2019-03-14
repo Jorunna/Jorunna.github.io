@@ -14,6 +14,7 @@ body {
     font: 20pt;
     margin-bottom: 32px;
     color: red;
+    text-align: center;
 }
 #main {
     width: 600px;
@@ -24,6 +25,7 @@ body {
     width: 600px;
     font: 10pt;
     margin-top: 64px;
+    text-align: center;
 }
 h1 {
    font-size: 36px; 
